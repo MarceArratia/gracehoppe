@@ -1,0 +1,29 @@
+body {
+background-color: yellow;
+
+}
+div{
+height: 100px;
+width: auto;
+margin-left: auto;
+margin-right: auto;
+}
+
+
+#dives{
+background: black;
+height: 100px;
+width: auto;
+align-items: center;
+margin-left: auto;
+margin-right: auto;
+}
+#divtransformacion{
+    background: yellow;
+    height: 300px;
+    width: 2000px;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    }
+
